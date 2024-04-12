@@ -1,0 +1,1 @@
+addsome some text to newfile.txt
